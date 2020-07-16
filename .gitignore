@@ -74,5 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Logs and inis
-*.ini
-*.log
+.ini
+.log
