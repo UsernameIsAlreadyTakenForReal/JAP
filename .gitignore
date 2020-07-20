@@ -79,3 +79,7 @@ DerivedDataCache/*
 *.ini
 
 *.log
+
+SekiroHasAgoraphobia/Content/ModularBuildingSet/
+
+SekiroHasAgoraphobia/Content/PN_interactiveSpruceForest/
