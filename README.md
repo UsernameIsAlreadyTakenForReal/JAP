@@ -1,4 +1,4 @@
-# JAP
+# JAP. Project created for UE 4.24
 
 1. Simply clone Repo
    
