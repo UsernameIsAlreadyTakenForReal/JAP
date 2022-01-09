@@ -19,4 +19,4 @@ Budget was absolute 0 and time was short. Can be seen in the quality of the vide
    7. Vehicle Variety Pack.
 4. Pray. Everything should be wired up inside;
 5. Make sure that Game Instance is set to AgoraphobiaGameInstance in Edit -> Project Settings;
-6. Optionally, have a VR headset compatible with Unreal Engine (Oculus, HTC Vive etc).
+6. Optionally, have a VR headset compatible with Unreal Engine (Oculus, HTC Vive etc) and set 'Dev_Mode' in AgoraphobiaGameInstance to 'VR'.
